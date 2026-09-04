@@ -1,7 +1,9 @@
 # Lab-Exercise-6
 
 AIM:
+
 To generate UX solution ideas and develop user stories, scenarios, user flows, and information architecture for an on-demand ride-hailing and auto/cab booking application.
+
 
 ALGORITHM:
 
@@ -25,9 +27,12 @@ ALGORITHM:
 
 10. Verify that the user stories, scenarios, user flow, and IA address friction points in urban transit.
 
+
 OUTPUT:
 
 [ex 6  uiux.pdf](https://github.com/user-attachments/files/31842337/ex.6.uiux.pdf)
 
+
 RESULT:
+
 A complete UX solution for the SwiftRide Mobility App was developed, including Crazy 8s ideation, commuter user stories, a ride-booking scenario, an end-to-end task flow with alternate loops, and an information architecture site map.
